@@ -1,2 +1,2 @@
 # Let-s-Learn-Java
-Contains java concepts
+Contains code snippets for different java concepts
